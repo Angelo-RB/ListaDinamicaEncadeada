@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616984718 source:f:\coisas\arquivos facvest\3 fase\estrutura de dados\lista dinânica encadeada\lista_dinamica_encadeada(angelo)\listadinencad\listadinencad.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDinEncad.h"
+
+1616984662 f:\coisas\arquivos facvest\3 fase\estrutura de dados\lista dinânica encadeada\lista_dinamica_encadeada(angelo)\listadinencad\listadinencad.h
+
+1616982382 source:f:\coisas\arquivos facvest\3 fase\estrutura de dados\lista dinânica encadeada\lista_dinamica_encadeada(angelo)\listadinencad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"listaDinEncad.h"
+
